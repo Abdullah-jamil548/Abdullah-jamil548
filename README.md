@@ -1,7 +1,11 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:0D47A1,100:00BCD4&height=200&section=header&text=Abdullah%20Jamil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;BS+Computer+Science+%40+Air+University;Building+Clean%2C+Scalable+Mobile+Apps;Learning+Docker%2C+CI%2FCD+%26+Cloud+Deployments;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;BS+Computer+Science+%40+Air+University;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
 <br/>
+
 <a href="https://linkedin.com/in/abdullah-jamil-798105351" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -11,92 +15,79 @@
 <a href="https://github.com/Abdullah-jamil548" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=Abdullah-jamil548&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:00BCD4&height=3&section=header" width="100%"/>
+
 ### 🚀 About Me
- 
+
 - 🎓 Currently pursuing **BS Computer Science** at **Air University, Islamabad** (6th Semester)
 - 📱 Passionate about **Flutter app development** — UI/UX, state management, and API integration
 - ☁️ Exploring **Cloud Computing & DevOps** — Firebase, CI/CD pipelines, Docker basics, and cloud-hosted backends
 - 💼 Completed a **Flutter Development Internship** at **FunPrime Technology**
-- 🌱 Currently learning **Docker, GitHub Actions, and cloud deployment** (Firebase Cloud Functions, REST APIs, cloud databases)
 - 🎯 Looking to grow as a professional mobile & cloud-integrated app developer
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:00BCD4&height=3&section=header" width="100%"/>
+
+<div align="center">
+
 ### 🛠️ Tech Stack
- 
+
 **Languages**
- 
+
 <img src="https://skillicons.dev/icons?i=cpp,dart,java,python,javascript,mysql" />
+
 **Mobile Development**
- 
+
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,materialui" />
-**State Management**
- 
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-45C4B0?style=flat-square&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-00A6ED?style=flat-square&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat-square&logoColor=white)
- 
+
 **Backend & Databases**
- 
+
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,postman" />
+
 **☁️ Cloud & DevOps**
- 
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,githubactions,linux,kubernetes" />
+
 **Tools & Design**
- 
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,postman" />
+
+<img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:00BCD4&height=3&section=header" width="100%"/>
-### 💼 Work Experience
- 
+
+### 💼 Experience
+
 **Flutter Development Intern** — *FunPrime Technology, Islamabad* (06/2025 – 07/2025)
 - Worked on real Flutter applications focusing on UI development and API integration
 - Implemented state management using GetX and Provider
 - Collaborated in a team to build responsive and functional mobile apps
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:00BCD4&height=3&section=header" width="100%"/>
-### 🧩 Featured Projects
- 
-<table>
-<tr>
-<td width="50%">
-**📶 Wallify – Wallpaper App**
-API-based wallpaper app with category browsing and full-screen preview
- 
-**📰 Newspaper App**
-News app using live API data with category filters and dynamic loading
- 
-**🎓 AirMate – University Utility App**
-GPA calculator & Lost/Found system with backend integration
- 
-</td>
-<td width="50%">
-**🍔 Cheezious Food App Clone**
-Food ordering app with Add-to-Cart using Provider + Hive local storage
- 
-**📖 Quran App**
-Clean UI with GetX, Dark/Light theme, Flutter Quran package integration
- 
-**⛅ Weather App**
-Real-time weather updates via Weather API with responsive design
- 
-</td>
-</tr>
-</table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:00BCD4&height=3&section=header" width="100%"/>
-### 📊 GitHub Stats & Trophies
- 
+
+### 📊 GitHub Stats
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-jamil548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-jamil548&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-jamil548&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-jamil548&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
+
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-jamil548&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:00BCD4&height=3&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,50:0D47A1,100:2196F3&height=150&section=footer" width="100%"/>
+
+<div align="center">
+📍 Islamabad, Pakistan &nbsp;|&nbsp; 📞 0333-6172088
+<br/>
+<i>⭐️ Thanks for visiting my profile!</i>
+</div>
