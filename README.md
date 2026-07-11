@@ -56,7 +56,7 @@ Flutter Developer and Computer Science student, driven by a passion for crafting
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abdullah-jamil548&theme=darkhub&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy-winning.vercel.app/?username=Abdullah-jamil548&theme=darkhub&no-frame=true&row=1&column=6)
 
 </div>
 
