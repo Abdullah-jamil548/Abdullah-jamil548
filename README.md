@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Flutter Developer | Learning DevOps | Islamabad
+### Flutter Developer | DevOps Engineer | Islamabad
 
-Enthusiastic Flutter Developer and Computer Science student, driven by a passion for crafting sleek, user-friendly applications. I have hands-on experience building real-world Flutter projects, and I'm currently learning DevOps & cloud practices to become a more well-rounded developer.
+Flutter Developer and Computer Science student, driven by a passion for crafting sleek, user-friendly applications. I have hands-on experience building real-world Flutter projects, and I'm currently learning DevOps & cloud practices to become a more well-rounded developer.
 
 </div>
 
@@ -32,7 +32,7 @@ Enthusiastic Flutter Developer and Computer Science student, driven by a passion
 
 **Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,github" />
 
 </div>
 
