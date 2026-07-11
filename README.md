@@ -1,84 +1,55 @@
+![logo](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">Hi 👋, I'm Abdullah Jamil</h1>
+<h3 align="center">A passionate Flutter Developer & DevOps enthusiast from Pakistan</h3>
 
-Abdullah Jamil <abdullahjamil5244@gmail.com>
-5:19 PM (1 minute ago)
-to abdullah.jamil2612
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Abdullah%20Jamil&fontSize=50&fontColor=fff&animation=fadeIn)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullah-jamil548&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullah-jamil548" /> </p>
 
-<div align="center">
+- 🔭 I'm currently working on **Flutter apps with Firebase backends**
 
-### Flutter Developer | DevOps Engineer | Islamabad
+- 🌱 I'm currently learning **DevOps & Cloud fundamentals — Docker, CI/CD, AWS, GCP, Azure**
 
-Flutter Developer and Computer Science student, driven by a passion for crafting sleek, user-friendly applications. I have hands-on experience building real-world Flutter projects, and I'm currently learning DevOps & cloud practices to become a more well-rounded developer.
+- 🤝 I'm open to collaborate on **innovative mobile app projects using Flutter & Firebase**
 
-</div>
+- 💬 Ask me about **Flutter, Dart, Android development, or API integration**
 
----
+- 📫 How to reach me **abdullahjamil5244@gmail.com**
 
-### 💻 Tech Stack
+- ⚡ Fun fact **I enjoy turning clunky app ideas into sleek, user-friendly experiences**
 
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdullah-jamil-798105351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-jamil-798105351" height="30" width="40" /></a>
+<a href="mailto:abdullahjamil5244@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="abdullahjamil5244" height="30" width="40" /></a>
+</p>
 
-**Languages**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,dart,java,python,javascript,mysql" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-jamil548&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Abdullah-jamil548" /></p>
 
-**Mobile Development**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-jamil548&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Abdullah-jamil548" /></p>
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,materialui" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,postman" />
-
-**☁️ Learning: DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,githubactions,linux,kubernetes" />
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=vscode,github" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-jamil548&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-jamil548&theme=radical&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-jamil548&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-
-</div>
-
----
-
-### 🌱 Currently
-
-- 📚 Learning: **DevOps & Cloud fundamentals — Docker, CI/CD, and cloud deployment basics (AWS, GCP, Azure)**
-- 🤝 Open to collaborate on: **Innovative mobile app development projects, particularly those leveraging Flutter and Firebase**
-- 💬 Ask me about: **Flutter development, state management in mobile apps, or API integration**
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahjamil5244@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-jamil-798105351)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-jamil548)
-
-</div>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-jamil548&theme=radical&hide_border=true" alt="Abdullah-jamil548" /></p>
