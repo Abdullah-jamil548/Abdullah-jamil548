@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Flutter Developer | Cloud & DevOps Enthusiast | Islamabad
+### Flutter Developer | Learning DevOps | Islamabad
 
-Enthusiastic Flutter Developer and Computer Science student, driven by a passion for crafting sleek, user-friendly applications. With hands-on experience in building real-world Flutter projects and a growing interest in cloud & DevOps practices, I'm ready to bring innovative ideas to life at an exciting organization.
+Enthusiastic Flutter Developer and Computer Science student, driven by a passion for crafting sleek, user-friendly applications. I have hands-on experience building real-world Flutter projects, and I'm currently learning DevOps & cloud practices to become a more well-rounded developer.
 
 </div>
 
@@ -26,7 +26,7 @@ Enthusiastic Flutter Developer and Computer Science student, driven by a passion
 
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,postman" />
 
-**☁️ Cloud & DevOps**
+**☁️ Learning: DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,githubactions,linux,kubernetes" />
 
@@ -52,9 +52,9 @@ Enthusiastic Flutter Developer and Computer Science student, driven by a passion
 
 ### 🌱 Currently
 
-- 📚 Learning: **Diving deeper into Flutter, state management, and cloud deployment (Firebase Cloud Functions, Docker, CI/CD basics)**
-- 🤝 Open to collaborate on: **Innovative mobile app development projects, particularly those leveraging Flutter, Firebase, and cloud integration**
-- 💬 Ask me about: **Flutter development, state management in mobile apps, API integration, or cloud basics**
+- 📚 Learning: **DevOps & Cloud fundamentals — Docker, CI/CD, and cloud deployment basics (AWS, GCP, Azure)**
+- 🤝 Open to collaborate on: **Innovative mobile app development projects, particularly those leveraging Flutter and Firebase**
+- 💬 Ask me about: **Flutter development, state management in mobile apps, or API integration**
 
 ---
 
