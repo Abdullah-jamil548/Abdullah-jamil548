@@ -42,14 +42,14 @@ Flutter Developer and Computer Science student, driven by a passion for crafting
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-jamil548&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-jamil548&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-jamil548&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-jamil548&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-jamil548&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
 
 </div>
 
