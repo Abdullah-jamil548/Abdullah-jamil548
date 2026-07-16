@@ -85,12 +85,12 @@ I'm a passionate **Flutter Developer** with a growing interest in **DevOps** and
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullah-jamil548&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-jamil548&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullah-jamil548&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-jamil548&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-jamil548&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Abdullah-jamil548&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ I'm a passionate **Flutter Developer** with a growing interest in **DevOps** and
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-jamil548&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-jamil548&theme=radical&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
